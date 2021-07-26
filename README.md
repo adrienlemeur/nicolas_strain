@@ -1,5 +1,5 @@
 # Instruction pour le placement des souches de Nicolas
-Souche à placer : ans010, ans003, gok4
+Souche à placer : ans010, ans003, gok4 + autres
 
 ## Construction de la référence avec AMPHI
 Entrée :
@@ -46,4 +46,4 @@ Sortie :
   - **pestis** : TRY-ON_EPA/results/nicolas_strain_pestis
  
     - Placement des souches individuelles (jplace) : placement/
-    - Placement de toutes les souches (jplace + newick) : big_tree_placement
+    - Placement de toutes les souches (jplace + newick) : big_tree_placement/
