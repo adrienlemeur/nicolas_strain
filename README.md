@@ -35,6 +35,9 @@ Entrée :
 - VCF des souches de référence (sortie AMPHI) :
     - **pseudotuberculosis** : /pasteur/zeus/projets/p02/Hotpaleo/adrien/Projets/RESULTS/07-09-TRY-ONE_EPA_ypestis_pseudotuberculosis/wPseudotuberculosis_morestrains/ref_vcf/*.merged.rmdup.haplotyper.genotypegvcfs.vcf.gz
     - **pestis** : /pasteur/zeus/projets/p02/Hotpaleo/adrien/Projets/RESULTS/07-09-TRY-ONE_EPA_ypestis_pseudotuberculosis/wPestis_morestrains/ref_vcf/*.merged.rmdup.haplotyper.genotypegvcfs.vcf.gz
+
+- Autre paramètre :
+    - **referenceExclude** : souches exclues pour la matrice de SNP + la constitution de la matrice de référence
  
 Sortie :
 
